@@ -4,9 +4,9 @@ number = 0
   puts number +=1
   if number %15 == 0 
     return "fizzbuzz"
-  if number %3 == 0 
+  elsif number %3 == 0 
     return "fizz"
-  if number %5 == 0 
+  elsif number %5 == 0 
     return "buzz"
   else 
     return "nil"
