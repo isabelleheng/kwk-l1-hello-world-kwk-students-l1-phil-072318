@@ -1,7 +1,7 @@
 def counter
 number = 0
   while number < 11
-  puts number +=1
+  number +=1
 end
 
 def fizzbuzz
