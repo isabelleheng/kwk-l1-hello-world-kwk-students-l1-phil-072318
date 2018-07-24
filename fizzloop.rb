@@ -1,7 +1,6 @@
 def counter
   number = 0
   while number < 11
-  number
   number +=1
 end
 end
