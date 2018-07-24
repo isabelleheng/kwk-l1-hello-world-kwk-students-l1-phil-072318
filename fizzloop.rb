@@ -1,5 +1,5 @@
 def counter
-number = 0
+  number = 0
   while number < 11
   number
   number +=1
