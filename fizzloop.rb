@@ -4,6 +4,7 @@ def counter
   number
   number +=1
 end
+end
 
   def fizzbuzz
   if number %15 == 0 
