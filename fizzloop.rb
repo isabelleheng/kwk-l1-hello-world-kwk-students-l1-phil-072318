@@ -14,7 +14,7 @@ end
   elsif number %5 == 0 
     return "buzz"
   else 
-    return "nil"
+    return "number"
   end
 end
 
