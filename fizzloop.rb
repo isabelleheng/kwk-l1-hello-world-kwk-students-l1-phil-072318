@@ -5,7 +5,7 @@ number = 0
   number +=1
 end
 
-def fizzbuzz
+  def fizzbuzz
   if number %15 == 0 
     return "fizzbuzz"
   elsif number %3 == 0 
@@ -17,4 +17,4 @@ def fizzbuzz
   end
 end
 
-(counter,fizzbuzz)
+counter
