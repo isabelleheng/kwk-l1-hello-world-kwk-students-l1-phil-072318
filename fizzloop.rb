@@ -12,3 +12,5 @@ number = 0
     return "nil"
   end
 end
+
+counter
